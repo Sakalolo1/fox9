@@ -1,0 +1,6 @@
+token=NTIxMDc5OTY5MjU5MDYxMjQ4.Dv2GGw.RMu3K622VJJpDauhoOpOX4AprJM
+owner=515474180603641866
+prefix=1
+game=Youcef. VIP
+stayinchannel=true
+songinstatus=true
