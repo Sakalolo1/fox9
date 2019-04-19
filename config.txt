@@ -1,0 +1,6 @@
+token=NTYxMTM5NzM2Nzk0NzU5MTY4.XLobKQ.rqOdsqYNL9-WpLZYmOaTuFX6btY
+owner=102215080040472576
+prefix=1
+game=Starbucks
+stayinchannel=true
+songinstatus=true
