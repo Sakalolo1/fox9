@@ -1,6 +1,6 @@
-token=NNTE3OTk0NTIwNDc5MDA2NzIy.XLsG7g.JwoEQxhA3I38M2C6T6KEn7AbvAY
+token=NTE3OTk0NTIwNDc5MDA2NzIy.XLsJ4w.UxwJ5AZ-JbQLtc5lLvZXIsHq2gc
 owner=102215080040472576
 prefix=2
-game=Starbucks
+game=2play
 stayinchannel=true
 songinstatus=true
