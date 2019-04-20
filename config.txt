@@ -1,4 +1,4 @@
-token=NTE3OTk0NTIwNDc5MDA2NzIy.XLojKA.aqz-7rmBwfOjcaUq4X_IAVKztKk
+token=NTE3OTk0NTIwNDc5MDA2NzIy.XLqzOQ.oLBX0pFm2YRrDO3tCxMucTWNRDQ
 owner=102215080040472576
 prefix=2
 game=Starbucks
